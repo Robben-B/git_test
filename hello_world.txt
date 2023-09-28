@@ -1,0 +1,3 @@
+I am adding text to this so I can practice staging and commiting
+The command I will use to stage is <git add>
+The command I will use to commit is <git commit> 
